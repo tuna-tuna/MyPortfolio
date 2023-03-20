@@ -1,0 +1,103 @@
+{
+    "name": "tuna-tuna",
+    "landing": {
+        "title": "Hi, I'm tuna-tuna",
+        "subtitles": [
+            "Python/TypeScript developer 🌐",
+            "Coding game-related stuff 🎮💻",
+            "Just getting started 📈"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "tuna-tuna",
+                "icon": "github",
+                "link": "https://github.com/tuna-tuna"
+            },
+            {
+                "alt": "tunatuna1733",
+                "icon": "twitter",
+                "link": "https://twitter.com/tunatuna1733"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:bouningen13@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "TypeScript",
+            "JavaScript",
+            "C++",
+            "Python",
+            "HTML5"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Material-UI"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Fastify",
+            "FastAPI",
+            "MongoDB",
+            "Heroku",
+            "Firebase"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/tuna-tuna/",
+        "repositories": [
+            "valo-friendlist",
+            "ValorantDiscordBot",
+            "ChatTriggersModules",
+            "VerySimpleAutoClicker",
+            "anni-bot",
+            "anni-database-front",
+            "Valorant-Backend-Server"
+        ]
+    },
+    "experience": {
+        "Workshop Experience": [
+            {
+                "organization": "Bandai Namco Studios Inc.",
+                "role": "Backend Developer",
+                "type": "Internship(WorkShop)",
+                "startDate": "2022-08-26",
+                "endDate": "2022-08-26",
+                "city": "",
+                "state": "",
+                "country": "Japan",
+                "url": "",
+                "thumbnail": "/BNS.svg"
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a student learning Information Technology and Computer Science in the college. Currently I do not have any work experience, but I am very eager to learn new things and make use of them. ",
+        "picture": "/tuna_can.png",
+        "social": []
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
